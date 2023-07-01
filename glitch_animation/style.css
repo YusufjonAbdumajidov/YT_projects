@@ -7,7 +7,7 @@ body{
     justify-content: center;
   }
   .glitch {
-    /* position: relative; */
+    position: relative;
     font-size: 85px;
     font-weight: 700;
     line-height: 1.2;
